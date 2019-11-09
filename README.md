@@ -14,8 +14,7 @@ git clone https://github.com/rahulnkvaidya/react-native-Auto-Configure.git
 after download double click on 
 
 ```bash
-
-> createreactapp.bat 
+createreactapp.bat 
 ```
 
 and just add app name and then pakage name for google play store
@@ -25,7 +24,12 @@ Enjoy.........
 ## What you will get
 
 - ReactNative 
-- Pakage Name in there place
- and more comming soon
+- Pakage Name in there place (Android Only)
+
+## Comming Soon
+- Gradle cleaning
+- Prepare unsigned app.apk (Android Only)
+- Push Notification Auto Config (Android Only)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
